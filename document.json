@@ -1,0 +1,27 @@
+{
+  
+  "meta" :{
+    "shouldUpdate" : 0,
+    "maintainceMode" : 0,
+    "currentversion" :1,
+    "dailyMode": 0,
+    "showMessage": false,
+    "message": ""
+  }
+  ,
+  "daily":[
+    {
+      "id": 0,
+      "text":"",
+      "link":""
+    },
+    {
+      "id": 1,
+      "text":"",
+      "link":""
+    }
+    ]
+    
+    
+  
+}
