@@ -13,14 +13,14 @@
   "daily":[
     {
       "id": 0,
-      "gridSize":50,
-      "text":"Messi",
+      "gridSize":75,
+      "text":"Its coming home: 3rd Place finish",
       "link":"https://raw.githubusercontent.com/AraibKarim/test/master/messi01.json"
     },
     {
       "id": 1,
-      "gridSize":50,
-      "text":"Messi",
+      "gridSize":75,
+      "text":"Its coming home",
       "link":"https://raw.githubusercontent.com/AraibKarim/test/master/messi01.json"
     }
     ]
