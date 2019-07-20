@@ -1,0 +1,33 @@
+{
+  "events": {
+    "id" : 1,
+    "previousid":0,
+    "needToUpgrade": false
+  }
+  ,
+  "daily": {
+    "id" : 1,
+    "image_URL":"",
+    "movieName":"",
+    "levelTiles_URL":"",
+    "reward": {
+      "hint" : 1,
+      "ticket": 1
+    },
+    "locked":{
+      "isLocked" : true,
+      "cookieType":{
+        "0": 0,
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0,
+        "5": 0
+      }
+    },
+    "levelType":{
+      "isTimedBased": false,
+      "count": 30
+    }
+  }
+}
