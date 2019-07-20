@@ -1,7 +1,7 @@
 {
   "events": {
-    "id" : 1,
-    "previousid":0,
+    "id" : 0,
+    "previousid":-1,
     "needToUpgrade": false
   }
   ,
