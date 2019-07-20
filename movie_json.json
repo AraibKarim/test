@@ -2,7 +2,7 @@
   "events": {
     "id" : 0,
     "previousid":-1,
-    "needToUpgrade": false
+    "needToUpgrade": false,
     "appVersion": 2
   }
   ,
