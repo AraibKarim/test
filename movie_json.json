@@ -7,10 +7,10 @@
   }
   ,
   "daily": {
-    "nextDate": "2019-09-22",
-    "id" : 1,
-    "image_URL":"https://i.imgur.com/l4Xy6A1.png",
-    "movieName":"Aladdin",
+    "nextDate": "2019-09-23",
+    "id" : 2,
+    "image_URL":"https://i.imgur.com/SFVbG52.png",
+    "movieName":"The Martian",
     "levelTiles_URL":[ [-1, -1, 0, -1, -1, -1, 0, -1, -1 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
@@ -18,11 +18,11 @@
               [-1, -1, 0, 0, 0, 0, 0, -1, -1 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-              [30, 0, 0, 0, 0, 0, 0, 0, 30],
+              [30, 30, -1, 0, 0, 0, -1, 30, 30],
               [-1, -1, 30, -1, -1, -1, 30, -1, -1 ] ],
     "reward": {
       "hint" : 1,
-      "ticket": 1
+      "ticket": 2
     },
     "locked":{
       "isLocked" : false,
@@ -37,7 +37,7 @@
     },
     "levelType":{
       "isTimedBased": false,
-      "count": 30
+      "count": 32
     }
   }
 }
