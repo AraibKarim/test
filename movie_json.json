@@ -7,10 +7,10 @@
   }
   ,
   "daily": {
-    "nextDate": "2019-09-25",
-    "id" : 4,
-    "image_URL":"https://i.imgur.com/AFNMkbg.png",
-    "movieName": "Black Panther",
+    "nextDate": "2019-09-26",
+    "id" : 5,
+    "image_URL":"https://i.imgur.com/ubv1cNZ.png",
+    "movieName": "Deadpool",
     "levelTiles_URL":[ [-1, -1, -1, -1, -1, -1, -1, -1, -1 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
@@ -19,10 +19,10 @@
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
               [-1, -1, -1, -1, -1, -1, -1, -1, -1],
-              [-1, -1, 30, 30, -1, 30, 30, -1, -1 ] ],
+              [-1, -1, 50, 30, -1, 50, 30, -1, -1 ] ],
     "reward": {
       "hint" : 1,
-      "ticket": 2
+      "ticket": 1
     },
     "locked":{
       "isLocked" : false,
@@ -37,7 +37,7 @@
     },
     "levelType":{
       "isTimedBased": false,
-      "count": 35
+      "count": 25
     }
   }
   }
