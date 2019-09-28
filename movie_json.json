@@ -25,7 +25,7 @@
       "ticket": 3
     },
     "locked":{
-      "isLocked" : false
+      "isLocked" : false,
       "cookieType":{
         "1": 0,
         "2": 0,
