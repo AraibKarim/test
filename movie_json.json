@@ -7,10 +7,10 @@
   }
   ,
   "daily": {
-    "nextDate": "2019-09-29",
-    "id" : 8,
-    "image_URL":"https://i.imgur.com/41OVl9c.png",
-    "movieName": "Beauty and the Beast",
+    "nextDate": "2019-09-30",
+    "id" : 9,
+    "image_URL":"https://i.imgur.com/cV7yqKL.png",
+    "movieName": "Robocop",
     "levelTiles_URL":[ [-1, -1, -1, -1, -1, -1, -1, -1, -1 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
@@ -18,11 +18,11 @@
               [-1, -1, 0, 0, 0, 0, 0, -1, -1 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-              [-1, 0, 0, 0, -1, 0, 0, 0, -1],
-              [-1, 30, 30, 30, -1, 30, 30, 30, -1 ] ],
+              [0, 0, 0, 0, -1, 0, 0, 0, 0],
+              [0, 0, 50, 50, -1, 50, 50, 0, 0 ] ],
     "reward": {
       "hint" : 1,
-      "ticket": 3
+      "ticket": 1
     },
     "locked":{
       "isLocked" : false,
@@ -37,7 +37,7 @@
     },
     "levelType":{
       "isTimedBased": false,
-      "count": 60
+      "count": 35
     }
   }
   }
