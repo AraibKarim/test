@@ -7,10 +7,10 @@
   }
   ,
   "daily": {
-    "nextDate": "2019-09-30",
-    "id" : 9,
-    "image_URL":"https://i.imgur.com/cV7yqKL.png",
-    "movieName": "Robocop",
+    "nextDate": "2019-10-01",
+    "id" : 10,
+    "image_URL":"https://i.imgur.com/wbdN31p.png",
+    "movieName": "Home Alone",
     "levelTiles_URL":[ [-1, -1, -1, -1, -1, -1, -1, -1, -1 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
