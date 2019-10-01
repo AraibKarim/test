@@ -7,10 +7,10 @@
   }
   ,
   "daily": {
-    "nextDate": "2019-10-01",
-    "id" : 10,
-    "image_URL":"https://i.imgur.com/wbdN31p.png",
-    "movieName": "Home Alone",
+    "nextDate": "2019-10-02",
+    "id" : 11,
+    "image_URL":"https://i.imgur.com/QBhEUiR.png",
+    "movieName": "Gone Girl",
     "levelTiles_URL":[ [-1, -1, -1, -1, -1, -1, -1, -1, -1 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
               [0, 0, 0, 0, 0, 0, 0, 0, 0 ],
